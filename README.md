@@ -1,1 +1,1 @@
-# Emotion-Detection using Conventional Neural Network model
+# Emotion-Detection using Convolutional Neural Network model
